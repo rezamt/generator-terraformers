@@ -1,0 +1,4 @@
+{
+  "aws" : ["ap-southeast-2", "ap-southeast-1", "us-east-1"],
+  "azure" : ["australia-east", "australiasouth-east", "uk-south", "uk-west"]
+}

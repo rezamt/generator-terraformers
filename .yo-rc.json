@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Reza",
+      "authorEmail": "rezamt@gmail.com",
+      "authorUrl": "http://inuit.io"
+    }
+  }
+}
